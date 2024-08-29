@@ -16,6 +16,7 @@
 
 #define _GNU_SOURCE /* needed by asprintf */
 
+#include <stdlib.h>
 #include <string.h>
 #include <libxml/tree.h>
 #include <sys/stat.h>
